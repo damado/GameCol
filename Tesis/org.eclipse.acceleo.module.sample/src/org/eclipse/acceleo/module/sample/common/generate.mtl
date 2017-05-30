@@ -1,0 +1,15 @@
+[comment encoding = UTF-8 /]
+[module generate('http://www.eclipse.org/uml2/5.0.0/UML')]
+
+
+[template public generateElement(aClass : Class)]
+[comment @main /]
+[file (aClass.name+'.ts', false, 'UTF-8')]
+	public class [aClass.name/] {
+	}
+	construct() {}
+[/file]
+[/template]
+
+
+

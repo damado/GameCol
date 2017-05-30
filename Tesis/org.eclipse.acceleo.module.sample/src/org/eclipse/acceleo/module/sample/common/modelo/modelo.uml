@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_yYnRID6OEeeNJ_smcci0bw">
+  <packagedElement xmi:type="uml:Package" xmi:id="__So3kD6OEeeNJ_smcci0bw" name="Prueba">
+    <packagedElement xmi:type="uml:Class" xmi:id="_JE5b0D6PEeeNJ_smcci0bw" name="Usuario">
+      <ownedAttribute xmi:id="_Pz3OMD6PEeeNJ_smcci0bw" name="name" type="_mV0YMD6PEeeNJ_smcci0bw"/>
+      <ownedAttribute xmi:id="_WJM_oD6PEeeNJ_smcci0bw" name="email" type="_mV0YMD6PEeeNJ_smcci0bw"/>
+    </packagedElement>
+  </packagedElement>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_mV0YMD6PEeeNJ_smcci0bw" name="String"/>
+</uml:Model>
